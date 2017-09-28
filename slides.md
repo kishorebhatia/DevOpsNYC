@@ -172,16 +172,14 @@
 + Convenience vs Security:
 + Big challenge (Data, Identity) in the Blockchain world is changing a long held perception (proven myth) that "locked behind closed doors is secure".
 + Private keys vs user/passwd
-
+---
 ### References and Useful Links
 
 + Visit http://developers.blockapps.net
 + Ethereum White Paper https://github.com/ethereum/wiki/wiki/White-Paper
 + Ethereum Yellow Paper http://yellowpaper.io/
 + Solidity Docs https://solidity.readthedocs.io/en/v0.4.8/
-
 ---
-
 # THANK YOU
 
 + Image Courtesy: The Web, http://slides.com/digitaldonkey, BlockApps
