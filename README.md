@@ -1,5 +1,6 @@
 # DevOpsNYC
-DevOps NYC tech talk content
+DevOps NYC tech talk content - delivered 9/29/2017 at BounceX
+- Meetup: https://www.meetup.com/DevOps-NYC/events/242802198/
 
 ## Steps to run the presentation on your machine
 
